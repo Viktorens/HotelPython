@@ -1,0 +1,7 @@
+Vorname: Ion - Nachname: Ionescu - Reservierte Zimmer: 0
+Vorname: Popa - Nachname: Popescu - Reservierte Zimmer: 0
+Vorname: Andreea - Nachname: Andreescu - Reservierte Zimmer: 0
+Vorname: Victor - Nachname: Greavu - Reservierte Zimmer: 0
+Vorname: Bla - Nachname: Bla - Reservierte Zimmer: 0
+Vorname: Gugu - Nachname: Gaga - Reservierte Zimmer: 0
+Vorname: Oana - Nachname: Greavu - Reservierte Zimmer: 0

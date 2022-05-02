@@ -1,0 +1,3 @@
+Nummer: 1 - Anzahl der Gaste: 2 - Preis: 200 $ - Farbe: Blau - Mehrblick: Ja - Reservierungen: 0
+Nummer: 2 - Anzahl der Gaste: 4 - Preis: 400 $ - Farbe: Lila - Mehrblick: Ja - Reservierungen: 0
+Nummer: 3 - Anzahl der Gaste: 1 - Preis: 500 $ - Farbe: Gelb - Mehrblick: Nein - Reservierungen: 0
